@@ -1,54 +1,73 @@
-🌦️ Weather App
-A simple and beautiful weather app that lets you check the current weather of any city in the world. Just enter the city name and get the temperature, condition, and local time instantly! ⚡
+# 🌦️ Weather App
 
-✨ Features
-🔍 Search weather by city name
+A beautiful and simple web application to check the **current weather** of any city using **WeatherAPI**. Just enter a city name and get real-time temperature, weather conditions, and local time instantly! ⚡
 
-🌡️ Shows real-time temperature
+---
 
-🌤️ Displays weather condition and icon
+## 📸 Demo
 
-🕒 Shows local time of the city
+👉 **Live Preview:** [https://your-vercel-link.vercel.app](#)  
+*(Replace this with your actual Vercel link)*
 
-📱 Fully responsive and mobile-friendly
+---
 
-🎨 Clean and modern user interface
+## ✨ Features
 
-🛠️ Built With
-HTML 🧱
+- 🔍 Search weather by city name  
+- 🌡️ Display current temperature  
+- ⛅ Show weather condition and icon  
+- 🕒 Local time of searched location  
+- 📱 Responsive for all devices  
+- 💅 Clean, modern, and user-friendly UI  
 
-CSS 🎨
+---
 
-JavaScript ⚙️
+## 🚀 Technologies Used
 
-WeatherAPI 🌐
+- **HTML5** 🧱  
+- **CSS3** 🎨  
+- **JavaScript (ES6)** ⚙️  
+- **WeatherAPI** (https://www.weatherapi.com) 🌐  
+- **Deployed on Vercel** 🚀  
 
-🚀 How to Use
-Open the app in your browser
+---
 
-Type a city name in the input box
+## 🛠️ How to Use
 
-Click the Search button
+1. Clone the repository:  
+   `git clone https://github.com/your-username/weather-app.git`
 
-Instantly see the current weather details! ✅
+2. Open the project folder and launch `index.html` in a browser.
 
-🌐 Deployment
-Deployed on Vercel for fast and free hosting.
-Live Demo 👉 [your-vercel-link]
+3. Enter a **city name** and click **Search** to see weather data.
 
-🔑 API Key
-This app uses the WeatherAPI.
-Get your free key from: https://www.weatherapi.com/ 🔐
+---
 
-📸 Screenshot
-(Include a screenshot of your app here) 🖼️
+## 🌐 WeatherAPI Key
 
-🙋‍♂️ Author
-Piyush Kumar
-👨‍💻 CSE Student | Web & Blockchain Developer
-📍 Chandigarh University
-📧 Email: piyushkr07p@gmail.com
+- Get your free API key from: [https://www.weatherapi.com](https://www.weatherapi.com)  
+- Replace the placeholder API key in the `index.html` file:
+  ```
+  http://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=CityName&aqi=no
+  ```
 
-📃 License
-Open-sourced under the MIT License 📝
-Free to use, share, and improve!
+---
+
+## 🖼️ Screenshots
+
+_Add a screenshot of your app interface here for better visibility on GitHub._
+
+---
+
+## 🧑‍💻 Author
+
+**Piyush Kumar**  
+🎓 4th Year CSE Student, Chandigarh University  
+🌐 Portfolio: [your-portfolio-link]  
+📧 Email: [your-email@example.com]  
+
+---
+
+## 📃 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and share. ✅
