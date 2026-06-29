@@ -4,10 +4,7 @@ A beautiful and simple web application to check the **current weather** of any c
 
 ---
 
-## 📸 Demo
-
-👉 **Live Preview:** [https://your-vercel-link.vercel.app](#)  
-*(Replace this with your actual Vercel link)*
+=
 
 ---
 
@@ -32,10 +29,6 @@ A beautiful and simple web application to check the **current weather** of any c
 
 ---
 
-## 🛠️ How to Use
-
-1. Clone the repository:  
-   `git clone https://github.com/your-username/weather-app.git`
 
 2. Open the project folder and launch `index.html` in a browser.
 
@@ -47,27 +40,16 @@ A beautiful and simple web application to check the **current weather** of any c
 
 - Get your free API key from: [https://www.weatherapi.com](https://www.weatherapi.com)  
 - Replace the placeholder API key in the `index.html` file:
+  
   ```
-  http://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=CityName&aqi=no
-  ```
 
----
-
-## 🖼️ Screenshots
-
-_Add a screenshot of your app interface here for better visibility on GitHub._
 
 ---
 
 ## 🧑‍💻 Author
 
-**Piyush Kumar**  
-🎓 4th Year CSE Student, Chandigarh University  
-🌐 Portfolio: [your-portfolio-link]  
-📧 Email: [your-email@example.com]  
+**Piyush Bhardwaj**  
+
 
 ---
 
-## 📃 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and share. ✅
