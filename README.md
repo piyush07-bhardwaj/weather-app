@@ -4,10 +4,6 @@ A beautiful and simple web application to check the **current weather** of any c
 
 ---
 
-=
-
----
-
 ## ✨ Features
 
 - 🔍 Search weather by city name  
@@ -40,8 +36,6 @@ A beautiful and simple web application to check the **current weather** of any c
 
 - Get your free API key from: [https://www.weatherapi.com](https://www.weatherapi.com)  
 - Replace the placeholder API key in the `index.html` file:
-  
-  ```
 
 
 ---
